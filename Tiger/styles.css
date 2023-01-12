@@ -1,0 +1,33 @@
+.card{
+  border: 1px solid black;  
+    width: 300px;
+    padding: 10px;
+    background-color: rgb(211, 225, 232);
+    box-shadow: 3px 3px 3px 3px;
+    border-radius: 10px;
+    display: flex;
+    flex-flow: row wrap;
+    margin-left : 40%;
+    margin-right:  50%;
+}
+.pic{
+width: 300px;
+padding-bottom: 3px;
+}
+.discrption{
+    font-style: italic;
+}
+span{
+    font-weight: bold;
+
+}
+.info-list{
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+.info{
+    border: 1px solid black;
+    padding: 0.5em;
+    
+}
